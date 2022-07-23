@@ -10,6 +10,7 @@ public class StringReverse {
 		}
 		System.out.println(rev);
 		System.out.println("meera");
+		System.out.println("middle");
 		System.out.println("ruban");
 		System.out.println("jesus");
 
