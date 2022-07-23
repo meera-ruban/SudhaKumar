@@ -14,7 +14,7 @@ public class StringReverse {
 		System.out.println("ruban");
 		System.out.println("jesus");
         System.out.println("lavanya");
-
+System.out.println("banu");
 		
 		
 	}
